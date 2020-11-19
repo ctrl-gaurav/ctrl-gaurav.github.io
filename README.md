@@ -1,1 +1,1 @@
-# https://www.ctrl-gaurav.github.io
+# https://ctrl-gaurav.github.io
