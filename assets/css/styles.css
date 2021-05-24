@@ -9,14 +9,14 @@
 
 /*===== Colores =====*/
 :root{
-    /* --first-color: #5361FF;
-    --white-color: #FAFAFF;
-    --dark-color: #2A3B47;
-    --text-color: #697477; */
-    --first-color: #4a1c40;
+    --first-color: #5361FF;
     --white-color: #FAFAFF;
     --dark-color: #2A3B47;
     --text-color: #697477;
+    /* --first-color: #4a1c40;
+    --white-color: #FAFAFF;
+    --dark-color: #2A3B47;
+    --text-color: #697477; */
 }
 
 /*===== Fuente y tipografia =====*/
@@ -62,7 +62,7 @@ body{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
     color: var(--text-color);
-    background-color: #ffddcc;
+    background-color: ##FFF8DC;
     line-height: 1.6;
 }
 h1,h2,p{
