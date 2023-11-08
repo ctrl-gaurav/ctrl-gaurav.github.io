@@ -1,0 +1,311 @@
+/* MOBILE's FIRST - Custom properties */
+/* This classes will be then modified for bigger screens */
+
+#mowatave {
+	color: #2bd284 !important;
+	text-decoration: underline;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+a {
+	text-decoration-thickness: 1px;
+}
+
+#hobbiesH4 {
+	text-align: center;
+}
+
+#hobbie1, #hobbie2, #hobbie3 {
+	text-align: center;
+	margin-top: 1em;
+}
+
+.abme-honors-bullet{
+	font-size: 16px;
+}
+
+/* GENERAL CSS */
+#main-content {
+	margin-top: 20px;
+}
+
+li > .active {
+	font-weight: 500;
+}
+
+.trnsf-thin {
+	font-weight: 300;
+}
+
+.trnsf-italic {
+	font-style: italic;
+}
+
+.justify {
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.lucida-console {
+	font-family: 'Lucida Console', monospace;
+}
+
+/* NICOLAS MESEGUER CONTACT INFO - Related*/
+.profilepicture {
+	max-height: 300px;
+	min-width: 150px;
+	min-height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fseneca {
+	max-width: 50%; 
+	height: auto;
+}
+
+.fseneca:hover {
+	transform: scale(1.05,1.05);
+}
+
+/* PUBLICATIONS - Related */
+.pub-block {
+	border-left: 2px #D9DDDC solid;
+	padding-left: 15px;
+}
+
+.pub-year-h2 {
+	font-size: 3.2em;
+	font-weight: 100;
+}
+
+.pub-authors {
+	font-weight: 400;
+}
+
+.pub-authors .pub-author {
+	font-weight: 500;
+}
+
+.pub-congress {
+	font-weight: 100;
+}
+
+.pub-force-margin-left {
+	margin-left: 10px !important;
+}
+
+/* ACADEMIC - Related */
+.academic-year-h2, .student-h2 {
+	font-size: 3.2em;
+	font-weight: 100;
+}
+
+.academic-block, .student-block {
+	padding-left: 15px;
+}
+
+.academic-rol {
+	font-weight: 400;
+}
+
+.academic-year {
+	font-weight: 100;
+}
+
+.student-mark {
+	font-weight: 400;
+	font-size: 1.1em;
+}
+
+.student-period {
+	font-weight: 100;
+}
+
+/* OPTION BUTTON */
+.options-button {
+    position: fixed;
+	
+    height: 50px;
+    width: 50px;
+	cursor: pointer;
+
+    border-radius: 100%;
+	
+	bottom: 25px;
+	right: 25px;
+
+	display: inline-block;
+
+	font-size: 1.2em;
+	vertical-align: middle;
+	text-align: center;
+
+	padding-top: .35em;
+}
+
+.options-button i, img {
+	margin: auto;
+	z-index: -999;
+}
+
+#options-toggler {
+	transition: .2s;
+}
+
+#options-toggler:hover {
+	transform: scale(1.09,1.09);
+}
+
+#theme {
+	height: 40px;
+    width: 40px;
+
+	bottom: 85px !important;
+	right: 30px !important;
+
+	font-size: 1em;
+
+	-webkit-transition: background-color .5s; /* For Safari 3.0 to 6.0 */
+    transition: background-color .5s; /* For modern browsers */
+}
+
+#lan {
+	height: 40px;
+    width: 40px;
+
+	bottom: 130px;
+	right: 30px;
+
+	font-size: 1em;
+
+	-webkit-transition: background-color .5s; /* For Safari 3.0 to 6.0 */
+    transition: background-color .5s; /* For modern browsers */
+}
+
+.lang-flag {
+	height: 15px;
+    width: 22.5px;
+	vertical-align:	0px;
+}
+
+/* BLOG - Related */
+.blog-info {
+	font-weight: 100;
+	width: 100%;
+	clear: both;
+	display: block;
+}
+
+.blog-short {
+	font-weight: 400;
+	font-size: 17px;
+}
+
+.blog-tags {
+	text-align: right;
+}
+
+.blog-tags > .tag {
+	border-radius: 100px;
+	padding: 4px;
+	font-size: 12px;
+	font-weight: 600;
+	box-shadow: 0px 3px 10px rgba(0,0,0,0.4);
+	color: white;
+}
+
+.blog-tags > .t-purple {
+	background-color: rgb(137, 70, 255, 0.8);
+}
+
+.blog-tags > .t-lime {
+	background-color: rgba(118, 185, 0, 0.8);
+}
+
+.blog-tags > .t-sky {
+	background-color: rgba(37, 197, 223, 0.8);
+}
+
+.clickable {
+	border-radius: 20px;
+	border: 2px #D9DDDC solid;
+	padding: 15px;
+	cursor: pointer;
+	transition: .3s;
+	box-shadow: 0px 3px 50px rgba(0,0,0,0.2);
+}
+
+.clickable:hover {
+	box-shadow: 0px 3px 50px rgba(0,0,0,0.3);
+	transform: scale(1.03,1.03);
+}
+
+/* CLASES PARTICULARES */
+.particular-h1 {
+	font-style: italic;
+	font-weight: 400;
+	padding: 0.2em 0.2em 0.2em 1em;
+	border-left: 5px #3fa5e9 solid;
+	background-color: rgba(137, 188, 230, 0.2);
+}
+
+.particular-h4 {
+	font-weight: 400;
+}
+
+#particularContent  p {
+	margin-top: 1em;
+}
+
+.particular-name {
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.particular-clickable {
+	margin-bottom: 0.6em;
+	padding: 0.3em;
+	cursor: pointer;
+	
+	border-radius: 15px;
+	box-shadow: 0px 3px 10px rgba(0,0,0,0.4);
+}
+
+.particular-clickable:hover {
+	transform: scale(1.02,1.02);
+	transition: 0.4s;
+}
+
+.profilepicture-particular {
+	width: 100%;
+	height: auto;
+	border-radius: 15px;
+	box-shadow: 0px 3px 10px rgba(0,0,0,0.4);
+}
+
+/* MEDIA QUERIES */
+/* BIGGER SCREENS */
+@media (min-width: 768px) {
+
+	#hobbiesH4 {
+		text-align: left;
+	}
+
+	#hobbie1, #hobbie2, #hobbie3 {
+		text-align: left;
+		margin-top: 0;
+	}
+
+	.profilepicture {
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.abme-honors-bullet{
+		margin-left: 40px;
+	}
+}
