@@ -309,3 +309,7 @@ li > .active {
 		margin-left: 40px;
 	}
 }
+
+a.link-dark {
+    text-decoration: none;
+}
