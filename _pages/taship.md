@@ -21,6 +21,21 @@ author_profile: true
 * **Faculty:** Dr. John Lewis
 
 ---
+
+
+<i class="fa fa-book" aria-hidden="true"></i> Edu-versity
+======
+
+
+### AI and Machine Learning mentor
+*May 2022 - Aug 2022* | Remote, India
+* Designed Edu-veristy's highly rated [Artificial Intelligence](https://edu-versity.in/course/artificial-intelligence/) course (**4.9/5.0** rating)
+* This has been enrolled by over 6,500 students to date.
+
+
+---
+
+
 <!-- 
 <i class="fa fa-university" aria-hidden="true"></i> Edu-Versity
 ======
