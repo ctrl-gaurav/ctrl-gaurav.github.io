@@ -8,8 +8,9 @@ author_profile: true
 # Work Experience
 
 ## <i class="fa fa-laptop" aria-hidden="true"></i> [Dell Technologies](https://www.dell.com/)
-### AI Research Intern (Incoming)
+### AI Research Intern
 *May 2025 - Aug 2025* | Round Rock, TX, USA
+* Part of Dell Global office of the CTO&mdash;Digital Skills Research
 
 ## <i class="fa fa-laptop" aria-hidden="true"></i> [Dell Technologies](https://www.dell.com/)
 ### Machine Learning Engineer

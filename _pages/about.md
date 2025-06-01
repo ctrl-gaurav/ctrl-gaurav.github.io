@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-**Note:** *This webpage was last updated on **05/02/2025.***
+**Note:** *This webpage was last updated on **06/01/2025.***
 
 ## About me
 
@@ -41,7 +41,11 @@ I work on **improving small language models in reasoning**—pushing lightweight
 
 ## News
 
-- **[Apr. 22, 2025]** Released the [SLM Reasoning Leaderboard](https://ctrl-gaurav.github.io/slms-reasoning-leaderboard.github.io/)!
+- **[May. 27, 2025]** Started my summer internship @ Dell Office of the CTO&mdash;Digital Skills Research!
+- **[May. 21, 2025]** New [preprint](https://arxiv.org/abs/2505.15734) on self-evolution of language model reasoning.
+- **[May. 10, 2025]** Released the [LLMThinkBench Leaderboard](https://llmthinkbench-leaderboard.streamlit.app/)! Currently there are **17** open-sourced and **4** proprietary models.
+- **[May. 4, 2025]** Released the [DataSense](https://github.com/ctrl-gaurav/DataSense) framework for data visualization and story generation using language models&mdash;install it with `pip install datasense`!
+- **[Apr. 22, 2025]** Released [ThinkSLM](https://ctrl-gaurav.github.io/slms-reasoning-leaderboard.github.io/)&mdash;the SLM Reasoning Leaderboard!
 - **[Apr. 5, 2025]** Released the [LLMThinkBench](https://github.com/ctrl-gaurav/LLMThinkBench) framework for evaluating basic‑math reasoning and over‑thinking in language models&mdash;install it with `pip install llmthinkbench`!
 - **[Feb. 17, 2025]** New [preprint](https://arxiv.org/abs/2502.11569) on the reasoning abilities of small language models.
 - **[Oct. 9, 2024]** Accepted a Summer&nbsp;2025 internship offer at [Dell Technologies](https://www.dell.com/en-us) as an AI Research Intern in the Global Office of the CTO (Round Rock, TX)!

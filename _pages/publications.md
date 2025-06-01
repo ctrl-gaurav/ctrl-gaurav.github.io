@@ -7,7 +7,9 @@ author_profile: true
 {% include base_path %}
 
 ## 2025
-1. **Gaurav Srivastava**, Shuxiang Cao, and Xuan Wang. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025). [<a href="https://arxiv.org/abs/2502.11569" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/slms-reasoning-leaderboard.github.io/" target="_blank">leaderboard</a>]
+1. **Gaurav Srivastava**, Zhenyu Bi, Meng Lu, and Xuan Wang. "DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning." arXiv preprint arXiv:2505.15734 (2025). [<a href="https://arxiv.org/abs/2505.15734" target="_blank">arxiv</a>]
+
+2. **Gaurav Srivastava**, Shuxiang Cao, and Xuan Wang. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025). [<a href="https://arxiv.org/abs/2502.11569" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/slms-reasoning-leaderboard.github.io/" target="_blank">leaderboard</a>]
 
 -------
 
