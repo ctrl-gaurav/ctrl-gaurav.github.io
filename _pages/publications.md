@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2025
-1. **Gaurav Srivastava**, Shuxiang Cao, and Xuan Wang. "ThinkSLM: Towards Reasoning in Small Language Models." In *Proc. 2025 Conf. of Empirical Methods in Natural Language Processing* **(EMNLP'25 Main)**, pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: TBD%)</span>. [<a href="https://arxiv.org/abs/2502.11569" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/slms-reasoning-leaderboard.github.io/" target="_blank">leaderboard</a>]
+1. **Gaurav Srivastava**, Shuxiang Cao, and Xuan Wang. "ThinkSLM: Towards Reasoning in Small Language Models." In *Proc. 2025 Conf. of Empirical Methods in Natural Language Processing* **(EMNLP'25 Main)**, pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: TBD%)</span>. [<a href="https://arxiv.org/abs/2502.11569" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/thinkslm.github.io/" target="_blank">leaderboard</a>]
 
 2. **Gaurav Srivastava**, Zhenyu Bi, Meng Lu, and Xuan Wang. "DEBATE, TRAIN, EVOLVE: Self‑Evolution of Language Model Reasoning." In *Proc. 2025 Conf. of Empirical Methods in Natural Language Processing* **(EMNLP'25 Main)**, pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: TBD%)</span>. [<a href="https://arxiv.org/abs/2505.15734" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/debate-train-evolve.github.io/" target="_blank">project website</a>]
 

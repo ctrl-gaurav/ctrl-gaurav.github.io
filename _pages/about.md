@@ -14,7 +14,7 @@ redirect_from:
 
 ## About me
 
-Hi folks, welcome to my personal homepage! I'm a first-year MS (thesis) student in Computer Science at [Virginia Tech](https://vt.edu/), and fortunately advised by [Dr. Xuan Wang](https://xuanwang91.github.io/). I am also affiliated with the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/person/gaurav-srivastava/). 
+Hi folks, welcome to my personal homepage! I'm a second-year MS (thesis) student in Computer Science at [Virginia Tech](https://vt.edu/), and fortunately advised by [Dr. Xuan Wang](https://xuanwang91.github.io/). I am also affiliated with the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/person/gaurav-srivastava/). 
 
 My research interests are in natural language processing, small and large language models, agentic systems and their applications in real-world domains, particularly in areas intersecting reasoning and efficiency. I have published papers in **EMNLP main conference** and other top-tier **(Q1) journals**. Most recently, I spent Summer 2025 at **Dell Technologies' Global Office of the CTO**, where I designed an agentic AI approach to autonomous resource allocation and was the recipient of **3 Inspire Recognition Awards** for positioning Dell PowerEdge as "AI-native" infrastructure.
 
