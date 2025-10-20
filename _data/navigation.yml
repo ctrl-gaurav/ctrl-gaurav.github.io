@@ -16,9 +16,9 @@ main:
 
   - title: "Service"
     url: /service/
-    
-  # - title: "Resume"
-  #   url: /resume/
+
+  - title: "CV"
+    url: /assets/documents/Resume_Gaurav_Srivastava.pdf
         
   # - title: "Blog Posts"
     # url: /year-archive/

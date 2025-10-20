@@ -7,10 +7,13 @@ author_profile: true
 
 # Work Experience
 
-## <i class="fa fa-laptop" aria-hidden="true"></i> [Dell Technologies](https://www.dell.com/)
+## <i class="fa fa-laptop" aria-hidden="true"></i> [Dell Technologies](https://www.dell.com/) - Office of the CTO (OCTO)
 ### AI Research Intern
-*May 2025 - Aug 2025* | Round Rock, TX, USA
-* Part of Dell Global office of the CTO&mdash;Digital Skills Research
+*May 2025 - Aug 2025* | Austin, Texas, USA
+* Architected autonomous resource allocation system using **11 specialized AI agents** with **57 tools**, improving GPU utilization from **8→40%**, achieving **∼25% cost reduction** and **35-40% better decision quality**
+* Deployed production system on real PowerEdge server fleets, processing **1000+ concurrent workloads** with **89% cost efficiency**, **91% success rate**, and **26.5% improvement** in decision quality over Kubernetes/SLURM schedulers
+* Built algorithm lifecycle management system with **4 AI agents** enabling autonomous selection, extraction, validation, and zero-downtime replacement of production algorithms from academic papers via Semantic Scholar/arXiv APIs
+* **Submitted 4 patents**; Published internal paper *OCTO-11136: Towards an Agentic Approach to Autonomous Resource Allocation*
 
 ## <i class="fa fa-laptop" aria-hidden="true"></i> [Dell Technologies](https://www.dell.com/)
 ### Machine Learning Engineer

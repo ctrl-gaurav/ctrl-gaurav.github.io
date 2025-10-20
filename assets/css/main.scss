@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom zoom adjustments */
+html {
+  font-size: 17px !important;
+}
+
+body {
+  font-size: 0.9em !important;
+}
+
+.page__content {
+  font-size: 0.95em !important;
+}
+
+#main {
+  max-width: 1500px !important;
+}
+
+.page {
+  max-width: 100% !important;
+}

@@ -18,11 +18,43 @@ See more info at https://academicpages.github.io/
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+### Prerequisites
+- Ruby (version 2.5 or higher)
+- Bundler gem
+- Node.js (optional, but recommended)
+
+### Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/[your-username]/ctrl-gaurav.github.io.git
+   cd ctrl-gaurav.github.io
+   ```
+
+2. **Install dependencies**
+   ```bash
+   bundle install
+   ```
+   If you encounter errors, delete `Gemfile.lock` and try again.
+
+3. **Run the development server**
+   ```bash
+   bundle exec jekyll serve -l -H localhost
+   ```
+   The website will be available at `http://localhost:4000`
+
+   The `-l` flag enables live reload, so changes will automatically refresh in your browser.
+
+4. **Build the website (for production)**
+   ```bash
+   bundle exec jekyll build
+   ```
+   The generated site will be in the `_site` directory.
+
+### Important Notes
+- **Configuration changes:** If you modify `_config.yml`, you must restart the Jekyll server for changes to take effect (press `Ctrl+C` and run the serve command again).
+- **Port already in use:** If port 4000 is busy, use `bundle exec jekyll serve -l -H localhost --port 4001` (or another port number).
+- **Clean build:** To start fresh, run `bundle exec jekyll clean` before building.
 
 # Changelog -- bugfixes and enhancements
 

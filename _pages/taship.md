@@ -10,8 +10,13 @@ author_profile: true
 
 
 ### Graduate Teaching Assistant
-*Jan 2025 - Present* | Blacksburg, VA, USA
-* GTA for Course: “Introduction to Deep Learning (CS5814)” for spring 2025.
+*Aug 2025 - Present* | Blacksburg, VA, USA
+* GTA for Course: "Introduction to Urban Computing (CS5834)" for fall 2025.
+* **Faculty:** Dr. Naren Ramakrishnan
+
+### Graduate Teaching Assistant
+*Jan 2025 - May 2025* | Blacksburg, VA, USA
+* GTA for Course: "Introduction to Deep Learning (CS5814)" for spring 2025.
 * **Faculty:** Dr. Xuan Wang
 
 ### Graduate Teaching Assistant
