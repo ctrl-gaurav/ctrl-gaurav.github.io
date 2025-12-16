@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-**Note:** *This webpage was last updated on **10/20/2025.***
+**Note:** *This webpage was last updated on **12/16/2025.***
 
 ## About me
 
@@ -35,6 +35,8 @@ I work on **improving small language models in reasoning**—pushing lightweight
 
 ## News
 
+- **[Dec. 16, 2025]** New **[preprint](https://arxiv.org/abs/2512.12818)** on building agent memory that retains, recalls, and reflects!
+- **[Nov. 24 2025]** New **[preprint](https://arxiv.org/abs/2511.19773)** on scaling agentic reinforcement learning for tool-integrated reasoning in VLMs.
 - **[Oct. 8, 2025]** New **[preprint](https://arxiv.org/abs/2507.04023v2)** on benchmarking the accuracy-efficiency tradeoff in language models for basic math reasoning!
 - **[Sep. 30, 2025]** Released **[BeyondBench](https://ctrl-gaurav.github.io/BeyondBench/)**&mdash;the Benchmark-Free Reasoning Evaluation of LLMs Leaderboard!
 - **[Sep. 29, 2025]** New **[preprint](https://arxiv.org/abs/2509.24210)** on benchmark-free evaluation of reasoning in language models!
