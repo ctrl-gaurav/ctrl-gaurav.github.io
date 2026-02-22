@@ -10,7 +10,12 @@ author_profile: true
 
 
 ### Graduate Teaching Assistant
-*Aug 2025 - Present* | Blacksburg, VA, USA
+*Jan 2026 - Present* | Blacksburg, VA, USA
+* GTA for Course: "Natural Language Processing (CS5624)" for spring 2026.
+* **Faculty:** Dr. Xuan Wang
+
+### Graduate Teaching Assistant
+*Aug 2025 - Dec 2025* | Blacksburg, VA, USA
 * GTA for Course: "Introduction to Urban Computing (CS5834)" for fall 2025.
 * **Faculty:** Dr. Naren Ramakrishnan
 
