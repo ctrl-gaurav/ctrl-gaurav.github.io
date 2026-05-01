@@ -6,19 +6,33 @@ author_profile: true
 ---
 {% include base_path %}
 
-<p><strong>30 total publications</strong> &nbsp;&mdash;&nbsp; <strong>ICLR</strong> &nbsp;&bull;&nbsp; <strong>EMNLP</strong> (×2, Main) &nbsp;&bull;&nbsp; <strong>AAAI</strong> (Oral) &nbsp;&bull;&nbsp; <strong>CVPR</strong> &nbsp;&bull;&nbsp; 7 Q1 journal papers &nbsp;&bull;&nbsp; 6 conference papers &nbsp;&bull;&nbsp; 3 book chapters &nbsp;&bull;&nbsp; 9 preprints under review</p>
+<p><strong>32 total publications</strong> &nbsp;&mdash;&nbsp; <strong>ICML</strong> (×2) &nbsp;&bull;&nbsp; <strong>ICLR</strong> &nbsp;&bull;&nbsp; <strong>ACL</strong> (×4) &nbsp;&bull;&nbsp; <strong>EMNLP</strong> (×2, Main) &nbsp;&bull;&nbsp; <strong>CVPR</strong> &nbsp;&bull;&nbsp; <strong>AAAI</strong> (Oral) &nbsp;&bull;&nbsp; 7 Q1 journal papers &nbsp;&bull;&nbsp; 5 under review</p>
 
 ## Accepted Papers (2025–)
 
-1. **Gaurav Srivastava**, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and Xuan Wang. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." In *Proc. The Fourteenth International Conference on Learning Representations* **(ICLR'26)**, pages TBD, April 23-27, 2026, Rio de Janeiro, Brazil <span style="color:red">(acceptance rate: 28%)</span>. [<a href="https://openreview.net/forum?id=mIKqVWGjwI" target="_blank">openreview</a>] [<a href="https://www.arxiv.org/abs/2509.24210" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/BeyondBench-leaderboard/" target="_blank">leaderboard</a>]
+1. **Gaurav Srivastava**, Aafiya Hussain, Chi Wang, Yingyan (Celine) Lin, and Xuan Wang. "effGen: Enabling Small Language Models as Capable Autonomous Agents." In *Proc. Forty-third International Conference on Machine Learning* **(ICML'26)**, pages TBD, 2026 <span style="color:red">(acceptance rate: 26.6%)</span>. [<a href="https://arxiv.org/abs/2602.00887" target="_blank">arxiv</a>] [<a href="https://effgen.org/" target="_blank">effgen.org</a>] [<a href="https://docs.effgen.org/" target="_blank">docs</a>]
 
-2. **Gaurav Srivastava**, Shuxiang Cao, and Xuan Wang. "ThinkSLM: Towards Reasoning in Small Language Models." In *Proc. 2025 Conf. of Empirical Methods in Natural Language Processing* **(EMNLP'25 Main)**, pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: 22.16%)</span>. [<a href="https://arxiv.org/abs/2502.11569" target="_blank">arxiv</a>] [<a href="https://aclanthology.org/2025.emnlp-main.1659/" target="_blank">anthology</a>] [<a href="https://ctrl-gaurav.github.io/thinkslm.github.io/" target="_blank">leaderboard</a>]
+2. **Gaurav Srivastava**, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and Xuan Wang. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." In *Proc. The Fourteenth International Conference on Learning Representations* **(ICLR'26)**, pages TBD, April 23-27, 2026, Rio de Janeiro, Brazil <span style="color:red">(acceptance rate: 28%)</span>. [<a href="https://openreview.net/forum?id=mIKqVWGjwI" target="_blank">openreview</a>] [<a href="https://www.arxiv.org/abs/2509.24210" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/BeyondBench-leaderboard/" target="_blank">leaderboard</a>]
 
-3. **Gaurav Srivastava**, Zhenyu Bi, Meng Lu, and Xuan Wang. "DEBATE, TRAIN, EVOLVE: Self‑Evolution of Language Model Reasoning." In *Proc. 2025 Conf. of Empirical Methods in Natural Language Processing* **(EMNLP'25 Main)**, pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: 22.16%)</span>. [<a href="https://arxiv.org/abs/2505.15734" target="_blank">arxiv</a>] [<a href="https://aclanthology.org/2025.emnlp-main.1666/" target="_blank">anthology</a>] [<a href="https://ctrl-gaurav.github.io/debate-train-evolve.github.io/" target="_blank">project website</a>]
+3. **Gaurav Srivastava**, Shuxiang Cao, and Xuan Wang. "ThinkSLM: Towards Reasoning in Small Language Models." In *Proc. 2025 Conf. of Empirical Methods in Natural Language Processing* **(EMNLP'25 Main)**, pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: 22.16%)</span>. [<a href="https://arxiv.org/abs/2502.11569" target="_blank">arxiv</a>] [<a href="https://aclanthology.org/2025.emnlp-main.1659/" target="_blank">anthology</a>] [<a href="https://ctrl-gaurav.github.io/thinkslm.github.io/" target="_blank">leaderboard</a>]
 
-4. Zhenyu Bi\*, **Gaurav Srivastava**\*, Yang Li, Swastik Roy, Meng Lu, Morteza Ziyadi, and Xuan Wang. "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation." In *Proc. The 40th Annual AAAI Conference on Artificial Intelligence* **(AAAI'26 Oral)**, pages TBD, January 20-27, 2026, Singapore <span style="color:red">(acceptance rate: 17.6%)</span>. [<a href="https://arxiv.org/abs/2511.15958" target="_blank">arxiv</a>]
+4. **Gaurav Srivastava**, Zhenyu Bi, Meng Lu, and Xuan Wang. "DEBATE, TRAIN, EVOLVE: Self‑Evolution of Language Model Reasoning." In *Proc. 2025 Conf. of Empirical Methods in Natural Language Processing* **(EMNLP'25 Main)**, pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: 22.16%)</span>. [<a href="https://arxiv.org/abs/2505.15734" target="_blank">arxiv</a>] [<a href="https://aclanthology.org/2025.emnlp-main.1666/" target="_blank">anthology</a>] [<a href="https://ctrl-gaurav.github.io/debate-train-evolve.github.io/" target="_blank">project website</a>]
 
-5. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, **Gaurav Srivastava**, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, and Xuan Wang. "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs." In *Proc. The IEEE/CVF Conference on Computer Vision and Pattern Recognition* **(CVPR'26)**, pages TBD, June 3-7, 2026, Denver CO <span style="color:red">(acceptance rate: 25.42%)</span>. [<a href="https://arxiv.org/abs/2511.19773" target="_blank">arxiv</a>]
+5. **Gaurav Srivastava**, Aafiya Hussain, Sriram Srinivasan, and Xuan Wang. "Do LLMs Overthink Basic Math Reasoning? Benchmarking the Accuracy-Efficiency Tradeoff in Language Models." In *Proc. of the 64th Annual Meeting of the Association for Computational Linguistics* **(ACL'26 Findings)**, pages TBD, July 2-7, 2026, San Diego, CA <span style="color:red">(acceptance rate: 18%)</span>. [<a href="https://arxiv.org/abs/2507.04023" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/llmthinkbench.github.io/" target="_blank">leaderboard</a>]
+
+6. Zhenyu Bi\*, **Gaurav Srivastava**\*, Yang Li, Swastik Roy, Meng Lu, Morteza Ziyadi, and Xuan Wang. "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation." In *Proc. The 40th Annual AAAI Conference on Artificial Intelligence* **(AAAI'26 Oral)**, pages TBD, January 20-27, 2026, Singapore <span style="color:red">(acceptance rate: 17.6%)</span>. [<a href="https://arxiv.org/abs/2511.15958" target="_blank">arxiv</a>]
+
+7. Aafiya Hussain, **Gaurav Srivastava**, Alvi Ishmam, Zaber Hakim, and Chris Thomas. "SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models." In *Proc. of the 64th Annual Meeting of the Association for Computational Linguistics* **(ACL'26 Main)**, pages TBD, July 2-7, 2026, San Diego, CA <span style="color:red">(acceptance rate: 19%)</span>.
+
+8. Priya Pitre, **Gaurav Srivastava**, Lu Zhang, Le Wang, Naren Ramakrishnan, and Xuan Wang. "A Diagnostic Study of Multi-Agent LLMs for Real-World Debates." In *Proc. Forty-third International Conference on Machine Learning* **(ICML'26)**, pages TBD, 2026 <span style="color:red">(acceptance rate: 26.6%)</span>.
+
+9. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, **Gaurav Srivastava**, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, and Xuan Wang. "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs." In *Proc. The IEEE/CVF Conference on Computer Vision and Pattern Recognition* **(CVPR'26)**, pages TBD, June 3-7, 2026, Denver CO <span style="color:red">(acceptance rate: 25.42%)</span>. [<a href="https://arxiv.org/abs/2511.19773" target="_blank">arxiv</a>]
+
+10. Christopher Latimer, Nicolò Boschi, Andrew Neeser, Chris Bartholomew, **Gaurav Srivastava**, Xuan Wang, and Naren Ramakrishnan. "Hindsight: Structured Agent Memory that Retains, Recalls, and Reflects." In *Proc. of the 64th Annual Meeting of the Association for Computational Linguistics* **(ACL'26 System Demonstrations)**, pages TBD, July 2-7, 2026, San Diego, CA <span style="color:red">(acceptance rate: 37%)</span>. [<a href="https://openreview.net/forum?id=CsCtEq6GjC" target="_blank">openreview</a>] [<a href="https://pypi.org/project/hindsight-all/" target="_blank">pypi</a>] [<a href="https://github.com/vectorize-io/hindsight" target="_blank">github</a>] [<a href="https://hindsight.vectorize.io/" target="_blank">website</a>] [<a href="https://vectorize.io/" target="_blank">vectorize.io</a>]
+
+11. Priya Pitre, **Gaurav Srivastava**, Lu Zhang, Le Wang, Naren Ramakrishnan, and Xuan Wang. "Beyond Consensus: Evaluating Multi-Agent LLM Debates through a Deliberative Democracy Framework." In *Proc. of the Generation, Evaluation & Metrics Workshop* **(GEM @ ACL'26)**, July 2026, San Diego, CA. [<a href="https://openreview.net/forum?id=GmclZbQNXt" target="_blank">openreview</a>]
+
+
 
 (*Joint first authors)
 
@@ -26,23 +40,15 @@ author_profile: true
 
 ## Preprints
 
-1. **Gaurav Srivastava**, Aafiya Hussain, Chi Wang, Yingyan (Celine) Lin, and Xuan Wang. "effGen: Enabling Small Language Models as Capable Autonomous Agents." **(Under review in ICML 2026)** [<a href="https://arxiv.org/abs/2602.00887" target="_blank">arxiv</a>] [<a href="https://effgen.org/" target="_blank">effgen.org</a>] [<a href="https://docs.effgen.org/" target="_blank">docs</a>]
+1. Chris Latimer, Nicolo Boschi, Andrew Neeser, Chris Bartholomew, **Gaurav Srivastava**, Xuan Wang, and Naren Ramakrishnan. "Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects." arXiv preprint arXiv:2512.12818 (2025). [<a href="https://arxiv.org/abs/2512.12818" target="_blank">arxiv</a>]
 
-2. **Gaurav Srivastava**, Aafiya Hussain, Sriram Srinivasan, and Xuan Wang. "Do LLMs Overthink Basic Math Reasoning? Benchmarking the Accuracy-Efficiency Tradeoff in Language Models." arXiv preprint arXiv:2507.04023 (2025). **(Under review in ACL 2026)** [<a href="https://arxiv.org/abs/2507.04023" target="_blank">arxiv</a>] [<a href="https://ctrl-gaurav.github.io/llmthinkbench.github.io/" target="_blank">leaderboard</a>]
+2. Andrew Neeser, **Gaurav Srivastava**, Kaylen Latimer, Aadyant Khatri, Xuan Wang, Christopher Latimer, and Naren Ramakrishnan. "QuOTE: Question-Oriented Text Embeddings." **(Under review in KDD 2026)** arXiv preprint (soon).
 
-3. Andrew Neeser, **Gaurav Srivastava**, Kaylen Latimer, Aadyant Khatri, Xuan Wang, Christopher Latimer, and Naren Ramakrishnan. "QuOTE: Question-Oriented Text Embeddings." **(Under review in KDD 2026)** arXiv preprint (soon).
+3. Meng Lu, Yuchen Zhuang, Wenqi Shi, **Gaurav Srivastava**, Charles Fleming, and Xuan Wang. "MAF-IE: Multi-Agent Finetuning for Zero-shot Information Extraction." arXiv preprint (soon).
 
-4. Chris Latimer, Nicolo Boschi, Andrew Neeser, Chris Bartholomew, **Gaurav Srivastava**, Xuan Wang, and Naren Ramakrishnan. "Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects." arXiv preprint arXiv:2512.12818 (2025). [<a href="https://arxiv.org/abs/2512.12818" target="_blank">arxiv</a>]
+4. Priya Pitre, **Gaurav Srivastava**, Lu Zhang, Le Wang, Naren Ramakrishnan, and Xuan Wang. "SIMAGENT: Towards Multi-Agent LLM for Real-World Stakeholder Debate Simulations without Ground Truth." arXiv preprint (soon).
 
-5. Meng Lu, Yuchen Zhuang, Wenqi Shi, **Gaurav Srivastava**, Charles Fleming, and Xuan Wang. "MAF-IE: Multi-Agent Finetuning for Zero-shot Information Extraction." **(Under review in ACL 2026)** arXiv preprint (soon).
-
-6. Priya Pitre, **Gaurav Srivastava**, Lu Zhang, Le Wang, Naren Ramakrishnan, and Xuan Wang. "SIMAGENT: Towards Multi-Agent LLM for Real-World Stakeholder Debate Simulations without Ground Truth." **(Under review in ACL 2026)** arXiv preprint (soon).
-
-7. Aafiya Hussain, **Gaurav Srivastava**, Alvi Ishmam, Zaber Hakim, and Chris Thomas. "SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models." **(Under review in ACL 2026)** arXiv preprint (soon).
-
-8. Priya Pitre, **Gaurav Srivastava**, Lu Zhang, Le Wang, Naren Ramakrishnan, and Xuan Wang. "A Diagnostic Study of Multi-Agent LLMs for Real-World Debates." **(Under review in ICML 2026)** arXiv preprint (soon).
-
-9. **Gaurav Srivastava**\*, Meng Lu\*, and Xuan Wang. "Towards Small (Vision-)Language Models as the Future of Real-World Agents." **(Under review in KDD 2026)** arXiv preprint (soon).
+5. **Gaurav Srivastava**\*, Meng Lu\*, and Xuan Wang. "Towards Small (Vision-)Language Models as the Future of Real-World Agents." **(Under review in KDD 2026)** arXiv preprint (soon).
 
 -------
 

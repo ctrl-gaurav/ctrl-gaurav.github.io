@@ -10,13 +10,13 @@ redirect_from:
 
 <br>
 
-**Note:** *This webpage was last updated on **02/22/2026.***
+**Note:** *This webpage was last updated on **05/01/2026.***
 
 ## About me
 
 Hi folks, welcome to my personal homepage! I'm a second-year MS (thesis) student in Computer Science at [Virginia Tech](https://vt.edu/), advised by [Dr. Xuan Wang](https://xuanwang91.github.io/). I am also affiliated with the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/person/gaurav-srivastava/).
 
-My research focuses on **making small language models better agents** -- getting compact models to reason well, use tools, and act autonomously without needing massive compute. I work on **agentic AI**, **efficient LLM reasoning**, and **LLM evaluation**. I have published papers at **ICLR**, **EMNLP** (Main, ×2), **AAAI** (Oral), **CVPR**, and **Q1 journals**. I also built [**effGen**](https://effgen.org/) ([GitHub](https://github.com/ctrl-gaurav/effGen), 100+ stars), an open-source framework for building agentic pipelines with small language models. Most recently, I spent Summer 2025 at **Dell Technologies' Global Office of the CTO**, where I built an agentic system for autonomous resource allocation and received **3 Inspire Recognition Awards** for positioning Dell PowerEdge as "AI-native" infrastructure.
+My research focuses on **making small language models better agents** -- getting compact models to reason well, use tools, and act autonomously without needing massive compute. I work on **agentic AI**, **efficient LLM reasoning**, and **LLM evaluation**. I have published papers at **ICML** (×2), **ICLR**, **ACL** (×4), **EMNLP** (×2, Main), **CVPR**, **AAAI** (Oral), and **Q1 journals**. I also built [**effGen**](https://effgen.org/) ([GitHub](https://github.com/ctrl-gaurav/effGen), 150+ stars, 8K+ downloads), an open-source framework for building agentic pipelines with small language models. Most recently, I spent Summer 2025 at **Dell Technologies' Global Office of the CTO**, where I built an agentic system for autonomous resource allocation and received **3 Inspire Recognition Awards** for positioning Dell PowerEdge as "AI-native" infrastructure.
 
 Prior to Virginia Tech, I completed my Bachelor's in Computer Science from Manipal University Jaipur in 2023, supervised by [Dr. Nitesh Pradhan](https://scholar.google.co.in/citations?hl=en&user=bHEoi4YAAAAJ&view_op=list_works) and working with [Dr. Vijaypal Singh Dhaka](https://scholar.google.com/citations?user=t9kU8QUAAAAJ&hl=en) and [Dr. Mahesh Jangid](https://scholar.google.co.in/citations?user=ChR5WYcAAAAJ&hl=en). I was the **President's Gold Medalist for Excellence in Research.** After that I worked at Dell Technologies for a year as a Machine Learning Engineer, and before that spent 6 months at Swiggy's Applied Research (Computer Vision) team.
 
@@ -25,7 +25,7 @@ Prior to Virginia Tech, I completed my Bachelor's in Computer Science from Manip
 I work on **small language models as capable agents** -- the core question being: how far can a small model go if you train and design it carefully? My research touches on NLP, reasoning, model efficiency, and agentic systems. Current focus areas:
 
 1. **Efficient Agentic AI with Small Language Models:**
-     I build systems where small LMs can act as autonomous agents -- calling tools, planning steps, and completing tasks without relying on GPT-5-scale models. I released [**effGen**](https://effgen.org/) ([GitHub](https://github.com/ctrl-gaurav/effGen), 100+ stars), a framework for agentic pipelines with small models. The goal is practical: real tasks, low cost, no massive GPU clusters.
+     I build systems where small LMs can act as autonomous agents -- calling tools, planning steps, and completing tasks without relying on GPT-5-scale models. I released [**effGen**](https://effgen.org/) ([GitHub](https://github.com/ctrl-gaurav/effGen), 150+ stars, 8K+ downloads), a framework for agentic pipelines with small models. The goal is practical: real tasks, low cost, no massive GPU clusters.
 
 2. **Reasoning in Small Language Models and Self-Evolution:**
      I study how much reasoning small models can do and what they lose after compression. This includes chain-of-thought, multi-agent debate, and iterative fine-tuning on model-generated traces so a model can improve itself without human labels (see [**ThinkSLM**](https://arxiv.org/abs/2502.11569) and [**DEBATE, TRAIN, EVOLVE**](https://arxiv.org/abs/2505.15734)).
@@ -35,6 +35,13 @@ I work on **small language models as capable agents** -- the core question being
 
 ## News
 
+- **[Apr. 30, 2026]** 🎓 Successfully defended my M.S. thesis on small language models as efficient and capable agents (Committee: [Dr. Xuan Wang](https://xuanwang91.github.io/), [Dr. Naren Ramakrishnan](https://people.cs.vt.edu/naren/), [Dr. Chris Thomas](https://people.cs.vt.edu/chris/), [Dr. Tu Vu](https://tuvllms.github.io/))!
+- **[Apr. 30, 2026]** 🎉 Two papers accepted to **ICML 2026** (acceptance rate: 26.6%): **[effGen](https://arxiv.org/abs/2602.00887)** and a diagnostic study on multi-agent LLMs!
+- **[Apr. 29, 2026]** 🏆 Received the **Outstanding MS Research Award** from the **Virginia Tech** Department of Computer Science!
+- **[Apr. 29, 2026]** 🎉 Paper on multi-agent LLM debates accepted to **GEM Workshop @ ACL 2026**!
+- **[Apr. 24, 2026]** 🎉 **"[Hindsight: Structured Agent Memory that Retains, Recalls, and Reflects](https://openreview.net/forum?id=CsCtEq6GjC)"** accepted to **ACL 2026 System Demonstrations** (acceptance rate: 37%)!
+- **[Apr. 7, 2026]** 🎉 **SoundBreak** accepted to **ACL 2026 Main** (acceptance rate: 19%)! Also, **"[Do LLMs Overthink Basic Math Reasoning?](https://arxiv.org/abs/2507.04023)"** accepted to **ACL 2026 Findings** (acceptance rate: 18%)!
+- **[Apr. 4, 2026]** 🏆 Selected as a **[Torgersen Graduate Research Excellence Award Finalist](https://torgersengradaward.vt.domains/2026-awardees/)** (Top 10), Virginia Tech!
 - **[Feb. 21, 2026]** 🎉 **[Scaling Agentic RL for Tool-Integrated Reasoning in VLMs](https://arxiv.org/abs/2511.19773)** got accepted to **CVPR 2026**!
 - **[Jan. 31, 2026]** New **[preprint](https://arxiv.org/abs/2602.00887)** on **[effGen](https://effgen.org/)**&mdash;enabling small language models as capable autonomous agents!
 - **[Jan. 26, 2026]** 🎉 **[BeyondBench](https://openreview.net/forum?id=mIKqVWGjwI)** got accepted to **ICLR 2026**!
@@ -61,6 +68,8 @@ I work on **small language models as capable agents** -- the core question being
 
 ## Honors and Awards
 
+- 🏆 **Outstanding MS Research Award**, Virginia Tech Department of Computer Science (2026)
+- 🏆 **[Torgersen Graduate Research Excellence Award](https://torgersengradaward.vt.domains/2026-awardees/) Finalist** (Top 10), Virginia Tech (2026)
 - 🏆 **$50K Commonwealth Cyber Initiative (CCI) Grant** for [effGen](https://effgen.org/), a B2B SaaS agent-building framework startup (2026)
 - 🏆 **Accepted to NSF I-Corps™ Program**, a 7-week entrepreneurial training program for commercialization of [effGen](https://effgen.org/) (2026)
 - 🏆 **3 Inspire Recognition Awards** for positioning Dell PowerEdge as "AI-native" infrastructure, Dell Technologies (2025)
